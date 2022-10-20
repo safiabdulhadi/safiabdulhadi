@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Abdulhadi Safi</h1>
 <div align="center">
 <h3 align="center"> 📫 How to reach me: </h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulhadi-safi-a03a31221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/abdulhadi-safi-a03a31221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="safiabdulhadi1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
