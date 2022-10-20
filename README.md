@@ -1,22 +1,21 @@
 ![logo](https://github.com/safiabdulhadi/safiabdulhadi/blob/main/web.jpg)
-<h1 align="center">Hi 👋, I'm Abdulhadi Safi</h1>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiabdulhadi&label=Profile%20views&color=0e75b6&style=flat" alt="safiabdulhadi" /> </p>
 
-
+<h1 align="center">Hi 👋, I'm Abdulhadi Safi</h1>
 <div align="center">
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulhadi-safi-a03a31221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="safiabdulhadi1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
 <h3 align="center">A passionate frontend & backend </h3>
-<h3 align="center">- 🌱 I’m currently learning **Html, Css, JavaScript , php , mySQL** ... </3>
+ 🌱 I’m currently learning **Html, Css, JavaScript , php , mySQL** ..
 
-## I like to code things from scratch, build for an optimal user experience and test it on any device. I would be glad to share my experiece  with I trained in web integration and front-end development.
+## I like to code things from scratch, build for an optimal user experience and test it on any device. I would be glad to share my experiece with you I trained in web integration and front-end development.
 Curious and motivated, I focus on the user experience to deliver accessible, responsive and optimised projects.
 Passionate about front-end (HTLM, CSS, JavaScript), I am always looking to develop my skills and I love teamwork.
 <div align="center">
