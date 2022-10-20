@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdulhadi Safi</h1>
 <div align="center">
-<h3 align="center">Contact:</h3>
+<h3 align="center"> 📫 How to reach me: </h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulhadi-safi-a03a31221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="safiabdulhadi1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -20,9 +20,11 @@ Curious and motivated, I focus on the user experience to deliver accessible, res
 Passionate about front-end (HTLM, CSS, JavaScript), I am always looking to develop my skills and I love teamwork.
 <div align="center">
   <a href="https://github.com/safiabdulhadi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiabdulhadi&show_icons=true&locale=en&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safiabdulhadi&show_icons=true&locale=en"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiabdulhadi&show_icons=true&theme=vue-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safiabdulhadi&show_icons=true&theme=vue-dark"/> 
 </div>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
