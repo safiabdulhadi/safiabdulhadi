@@ -18,12 +18,13 @@
 ## I like to code things from scratch, build for an optimal user experience and test it on any device. I would be glad to share my experiece with you I trained in web integration and front-end development.
 Curious and motivated, I focus on the user experience to deliver accessible, responsive and optimised projects.
 Passionate about front-end (HTLM, CSS, JavaScript), I am always looking to develop my skills and I love teamwork.
-<div align="center">
-  <a href="https://github.com/safiabdulhadi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiabdulhadi&show_icons=true&theme=vue-dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safiabdulhadi&show_icons=true&theme=vue-dark"/> 
-</div>
 
+
+
+<div align="center">
+<a href="https://github.com/safiabdulhadi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiabdulhadi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="safiabdulhadi" /></a> <a href="https://https://github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiabdulhadi&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
 
 
 <h3 align="center">Languages and Tools:</h3>
