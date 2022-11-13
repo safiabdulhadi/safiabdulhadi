@@ -24,7 +24,7 @@ Passionate about front-end (HTLM, CSS, JavaScript), I am always looking to devel
 
 <div align="center">
 
-[![Codewars](https://www.codewars.com/users/safiabdulhadi/badges/large)](https://https://www.codewars.com/users/safiabdulhadi)
+[![Codewars](https://www.codewars.com/users/safiabdulhadi/badges/large)](https://www.codewars.com/users/safiabdulhadi)
 
 </div>
 
